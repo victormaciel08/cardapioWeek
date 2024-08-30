@@ -1,0 +1,82 @@
+body{
+    background-color: rgb(223, 255, 255);
+}
+.bistro{
+    background-color: rgb(129, 9, 39);
+    border: 1px solid black;
+    width: 865px;
+    height: 1358px;
+    border-radius: 7px;
+    margin-left: 25%;
+}
+
+.geral{
+    background-color:rgb(241, 218, 182);
+    border: 1px hidden rgb(0, 0, 0);
+    border-radius: 7px;
+    width: 800px;
+    height: 1300px;
+    margin-left: 31px;
+}
+
+.nome{
+    margin-left: 270px;
+    font-style: italic;
+    font-size: 45px;
+
+}
+
+.tit{
+    margin-left: 27px;
+    font-style: italic;
+}
+
+.preco{
+    margin-left: 560px;
+    margin-top: -47px;
+}
+
+.menu{
+    font-style: italic;    
+    font-size: 19px;
+    margin-left: 27px;
+}
+.nomes{
+    font-style: italic;
+    font-weight: bold;
+    font-size: 21px;
+    margin-left: 30px;
+}
+
+.topic1{
+    border: 2px solid black;
+    border-radius: 7px;
+    margin-left: 49px;
+    width: 700px;
+    margin-top: -5px;
+    
+}
+
+.topic2{
+    border: 2px solid black;
+    border-radius: 7px;
+    margin-left: 49px;
+    width: 700px;
+    margin-top: 20px;
+}
+
+.topic3{
+    border: 2px solid black;
+    border-radius: 7px;
+    margin-left: 49px;
+    width: 700px;
+    margin-top: 20px;
+}
+
+.rodape{
+    font-weight: bold;
+    font-size: 15px;
+    margin-left: 165px;
+    margin-top: 20px;
+
+}
